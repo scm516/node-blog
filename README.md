@@ -1,6 +1,6 @@
-### 前后台分离的blog vue + koa2 + sequelize + mysql
+### 前后台分离的blog     vue + koa2 + sequelize + mysql
 
-完整的项目部署在 [博客地址](http://http://149.28.232.47.com)
+完整的项目部署在 <a href="http://149.28.232.47" target="_blank">博客地址</a>
 
 ### 运行node服务端
 ```
